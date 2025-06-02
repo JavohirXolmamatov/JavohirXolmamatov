@@ -20,9 +20,9 @@ I'm a self-taught web developer with a passion for building modern, responsive w
 - UI/UX improvements for small apps
 
 ## 📫 How to Reach Me
-- Telegram: [@JavohirXolmamatov](https://t.me/JavohirXolmamatov)
-- Email: xolmamatovjavohir390@gmail.com
-- LinkedIn: *Coming soon*
+- Telegram: [@JavohirXolmamatov](https://t.me/Xolmamatov_Javohir)
+- Email: xolmamatovjavohir2002@gmail.com
+- LinkedIn: www.linkedin.com/in/javohir-xolmamatov-517531353
 
 ## 😄 Pronouns
 He / Him
