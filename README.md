@@ -4,7 +4,7 @@
 I'm a self-taught web developer with a passion for building modern, responsive websites and web applications. I enjoy solving real-world problems with clean code and elegant design.
 
 ## 👀 I’m Interested In
-- Frontend Development (HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, React)
+- Frontend Development (HTML, CSS, Sass, Bootstrap, Tailwind, JavaScript, React, Next, TypeScript)
 - Backend Development (Node.js, Express, MongoDB)
 - UI/UX Design
 - Personal growth and lifelong learning
